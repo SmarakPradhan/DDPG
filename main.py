@@ -1,7 +1,7 @@
 import gym
 import numpy as np
 from DDPG import PlotLearning, Agent
-
+from agent import rotate
 
 
 
@@ -11,8 +11,7 @@ if __name__ == "__main__":
     print("STATE SHAPE:",env.observation_space.shape)
     print("ACTION SHAPE:",env.action_space.shape)
 
-    
-    
+    agent=rotate()
 
     
     LR_ACTOR = 0.0025
@@ -27,7 +26,10 @@ if __name__ == "__main__":
 
     np.random.seed(0)
 
-    score_to_beat = env.reward_range[0]
+    # score_to_beat = env.reward_range[0]
+    kp=1.0,ki=0.5,kd=0.5
+    score_to_beat=agent.get_reward(kp,ki,kd)
+
     score_history = []
     for i in range(n_games):
         observation = env.reset()
