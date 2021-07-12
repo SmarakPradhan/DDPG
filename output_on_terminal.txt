@@ -1,0 +1,1011 @@
+For Episode 202 SCore -179.7 Average Score -139.8
+For Episode 203 SCore -107.9 Average Score -140.2
+For Episode 204 SCore -141.5 Average Score -141.3
+For Episode 205 SCore -245.2 Average Score -143.5
+For Episode 206 SCore -248.4 Average Score -145.7
+For Episode 207 SCore -111.6 Average Score -145.2
+For Episode 208 SCore -250.5 Average Score -146.9
+For Episode 209 SCore -244.0 Average Score -149.0
+For Episode 210 SCore -232.6 Average Score -147.4
+For Episode 211 SCore -270.9 Average Score -149.6
+For Episode 212 SCore -262.8 Average Score -151.8
+For Episode 213 SCore -115.9 Average Score -152.7
+For Episode 214 SCore -108.9 Average Score -153.4
+For Episode 215 SCore -120.7 Average Score -153.7
+For Episode 216 SCore -129.1 Average Score -153.9
+For Episode 217 SCore -230.7 Average Score -155.9
+For Episode 218 SCore -117.6 Average Score -156.2
+For Episode 219 SCore -49.1 Average Score -154.8
+For Episode 220 SCore -217.1 Average Score -155.6
+For Episode 221 SCore -142.6 Average Score -157.0
+For Episode 222 SCore -119.2 Average Score -157.1
+For Episode 223 SCore -135.2 Average Score -157.5
+For Episode 224 SCore -166.8 Average Score -157.8
+For Episode 225 SCore -99.8 Average Score -158.7
+For Episode 226 SCore -154.1 Average Score -159.4
+For Episode 227 SCore -161.6 Average Score -160.1
+For Episode 228 SCore -244.8 Average Score -159.7
+For Episode 229 SCore -66.0 Average Score -159.2
+For Episode 230 SCore -100.2 Average Score -159.8
+For Episode 231 SCore -145.1 Average Score -160.0
+For Episode 232 SCore -434.5 Average Score -164.3
+For Episode 233 SCore -126.2 Average Score -165.0
+For Episode 234 SCore -602.0 Average Score -170.4
+For Episode 235 SCore -192.3 Average Score -171.7
+For Episode 236 SCore -64.1 Average Score -171.2
+For Episode 237 SCore -103.9 Average Score -171.6
+For Episode 238 SCore -167.1 Average Score -172.6
+For Episode 239 SCore -89.9 Average Score -172.0
+For Episode 240 SCore -320.2 Average Score -174.1
+For Episode 241 SCore -126.2 Average Score -174.0
+For Episode 242 SCore -30.6 Average Score -173.3
+For Episode 243 SCore -705.7 Average Score -178.6
+For Episode 244 SCore -244.9 Average Score -179.9
+For Episode 245 SCore -152.0 Average Score -180.4
+For Episode 246 SCore -92.6 Average Score -180.8
+For Episode 247 SCore -175.7 Average Score -180.3
+For Episode 248 SCore -302.8 Average Score -182.1
+For Episode 249 SCore -116.8 Average Score -182.5
+For Episode 250 SCore -72.6 Average Score -181.7
+For Episode 251 SCore -161.1 Average Score -181.6
+For Episode 252 SCore -164.2 Average Score -182.2
+For Episode 253 SCore -83.7 Average Score -182.9
+For Episode 254 SCore -113.0 Average Score -183.4
+For Episode 255 SCore -124.0 Average Score -183.6
+For Episode 256 SCore 173.8 Average Score -180.9
+For Episode 257 SCore -59.2 Average Score -180.4
+For Episode 258 SCore -407.6 Average Score -183.3
+For Episode 259 SCore -413.4 Average Score -184.9
+For Episode 260 SCore 16.6 Average Score -183.2
+For Episode 261 SCore -399.3 Average Score -185.1
+For Episode 262 SCore -338.2 Average Score -186.6
+For Episode 263 SCore -62.3 Average Score -184.5
+For Episode 264 SCore -246.8 Average Score -183.7
+For Episode 265 SCore -239.1 Average Score -185.2
+For Episode 266 SCore -48.9 Average Score -184.2
+For Episode 267 SCore -261.1 Average Score -185.7
+For Episode 268 SCore -93.7 Average Score -184.9
+For Episode 269 SCore -156.5 Average Score -184.1
+For Episode 270 SCore -102.0 Average Score -182.8
+For Episode 271 SCore -115.4 Average Score -181.5
+For Episode 272 SCore 208.6 Average Score -178.4
+For Episode 273 SCore 170.2 Average Score -175.4
+For Episode 274 SCore -25.3 Average Score -173.9
+For Episode 275 SCore 111.5 Average Score -170.6
+For Episode 276 SCore -83.3 Average Score -169.7
+For Episode 277 SCore -86.4 Average Score -169.7
+For Episode 278 SCore -108.0 Average Score -169.8
+For Episode 279 SCore -153.2 Average Score -169.6
+For Episode 280 SCore -148.5 Average Score -165.5
+For Episode 281 SCore -258.7 Average Score -166.9
+For Episode 282 SCore -88.2 Average Score -166.1
+For Episode 283 SCore -132.4 Average Score -166.4
+For Episode 284 SCore -373.7 Average Score -169.2
+For Episode 285 SCore -140.8 Average Score -167.6
+For Episode 286 SCore -158.2 Average Score -167.9
+For Episode 287 SCore -115.3 Average Score -167.7
+For Episode 288 SCore -108.9 Average Score -167.4
+For Episode 289 SCore -141.9 Average Score -166.8
+For Episode 290 SCore -136.1 Average Score -165.9
+For Episode 291 SCore -166.7 Average Score -165.3
+For Episode 292 SCore -188.9 Average Score -165.1
+For Episode 293 SCore -160.5 Average Score -165.8
+For Episode 294 SCore -111.3 Average Score -165.5
+For Episode 295 SCore -148.1 Average Score -165.5
+For Episode 296 SCore -171.0 Average Score -166.5
+For Episode 297 SCore -151.5 Average Score -165.0
+For Episode 298 SCore -187.5 Average Score -165.9
+For Episode 299 SCore -148.8 Average Score -164.5
+For Episode 300 SCore -155.8 Average Score -163.8
+For Episode 301 SCore -185.6 Average Score -159.8
+For Episode 302 SCore -223.5 Average Score -160.3
+For Episode 303 SCore -224.2 Average Score -161.4
+For Episode 304 SCore -235.3 Average Score -162.4
+For Episode 305 SCore -119.4 Average Score -161.1
+For Episode 306 SCore -301.9 Average Score -161.6
+For Episode 307 SCore -272.5 Average Score -163.3
+For Episode 308 SCore -485.2 Average Score -165.6
+For Episode 309 SCore -320.9 Average Score -166.4
+For Episode 310 SCore -370.9 Average Score -167.8
+For Episode 311 SCore -314.5 Average Score -168.2
+For Episode 312 SCore -271.6 Average Score -168.3
+For Episode 313 SCore -336.9 Average Score -170.5
+For Episode 314 SCore -246.6 Average Score -171.9
+For Episode 315 SCore -339.4 Average Score -174.0
+For Episode 316 SCore -229.4 Average Score -175.1
+For Episode 317 SCore -324.1 Average Score -176.0
+For Episode 318 SCore -361.0 Average Score -178.4
+For Episode 319 SCore -324.7 Average Score -181.2
+For Episode 320 SCore -292.1 Average Score -181.9
+For Episode 321 SCore -632.1 Average Score -186.8
+For Episode 322 SCore -423.4 Average Score -189.9
+For Episode 323 SCore -313.5 Average Score -191.6
+For Episode 324 SCore -330.6 Average Score -193.3
+For Episode 325 SCore -339.6 Average Score -195.7
+For Episode 326 SCore -271.0 Average Score -196.9
+For Episode 327 SCore -329.1 Average Score -198.5
+For Episode 328 SCore -311.1 Average Score -199.2
+For Episode 329 SCore -403.6 Average Score -202.6
+For Episode 330 SCore -295.6 Average Score -204.5
+For Episode 331 SCore -436.8 Average Score -207.4
+For Episode 332 SCore -342.6 Average Score -206.5
+For Episode 333 SCore -460.4 Average Score -209.9
+For Episode 334 SCore -589.4 Average Score -209.7
+For Episode 335 SCore -760.1 Average Score -215.4
+For Episode 336 SCore -144.6 Average Score -216.2
+For Episode 337 SCore -156.8 Average Score -216.7
+For Episode 338 SCore -155.1 Average Score -216.6
+For Episode 339 SCore -198.7 Average Score -217.7
+For Episode 340 SCore -138.6 Average Score -215.9
+For Episode 341 SCore -144.9 Average Score -216.1
+For Episode 342 SCore -201.1 Average Score -217.8
+For Episode 343 SCore -156.8 Average Score -212.3
+For Episode 344 SCore -92.5 Average Score -210.8
+For Episode 345 SCore -299.0 Average Score -212.2
+For Episode 346 SCore -172.6 Average Score -213.0
+For Episode 347 SCore -225.6 Average Score -213.5
+For Episode 348 SCore -186.0 Average Score -212.4
+For Episode 349 SCore -144.7 Average Score -212.7
+For Episode 350 SCore -173.0 Average Score -213.7
+For Episode 351 SCore -207.8 Average Score -214.1
+For Episode 352 SCore -251.4 Average Score -215.0
+For Episode 353 SCore -840.6 Average Score -222.6
+For Episode 354 SCore -170.7 Average Score -223.1
+For Episode 355 SCore -161.0 Average Score -223.5
+For Episode 356 SCore -161.7 Average Score -226.9
+For Episode 357 SCore -160.8 Average Score -227.9
+For Episode 358 SCore -35.1 Average Score -224.2
+For Episode 359 SCore -182.5 Average Score -221.9
+For Episode 360 SCore -114.4 Average Score -223.2
+For Episode 361 SCore -541.9 Average Score -224.6
+For Episode 362 SCore -112.8 Average Score -222.3
+For Episode 363 SCore -169.9 Average Score -223.4
+For Episode 364 SCore -94.8 Average Score -221.9
+For Episode 365 SCore -245.2 Average Score -222.0
+For Episode 366 SCore -184.7 Average Score -223.3
+For Episode 367 SCore -171.6 Average Score -222.4
+For Episode 368 SCore -200.3 Average Score -223.5
+For Episode 369 SCore -233.5 Average Score -224.3
+For Episode 370 SCore -163.7 Average Score -224.9
+For Episode 371 SCore -188.5 Average Score -225.6
+For Episode 372 SCore -220.3 Average Score -229.9
+For Episode 373 SCore -157.8 Average Score -233.2
+For Episode 374 SCore -181.9 Average Score -234.7
+For Episode 375 SCore -221.9 Average Score -238.1
+For Episode 376 SCore -175.2 Average Score -239.0
+For Episode 377 SCore -265.1 Average Score -240.8
+For Episode 378 SCore -271.1 Average Score -242.4
+For Episode 379 SCore -252.2 Average Score -243.4
+For Episode 380 SCore -174.0 Average Score -243.7
+For Episode 381 SCore -188.4 Average Score -242.9
+For Episode 382 SCore -75.6 Average Score -242.8
+For Episode 383 SCore -177.5 Average Score -243.3
+For Episode 384 SCore -179.1 Average Score -241.3
+For Episode 385 SCore -202.0 Average Score -241.9
+For Episode 386 SCore -412.7 Average Score -244.5
+For Episode 387 SCore -313.1 Average Score -246.5
+For Episode 388 SCore -445.2 Average Score -249.8
+For Episode 389 SCore -371.7 Average Score -252.1
+For Episode 390 SCore -337.5 Average Score -254.1
+For Episode 391 SCore -292.7 Average Score -255.4
+For Episode 392 SCore -219.5 Average Score -255.7
+For Episode 393 SCore -338.8 Average Score -257.5
+For Episode 394 SCore -144.5 Average Score -257.8
+For Episode 395 SCore -218.4 Average Score -258.5
+For Episode 396 SCore -269.1 Average Score -259.5
+For Episode 397 SCore -303.2 Average Score -261.0
+For Episode 398 SCore -123.8 Average Score -260.4
+For Episode 399 SCore -155.1 Average Score -260.4
+For Episode 400 SCore -255.4 Average Score -261.4
+For Episode 401 SCore -281.6 Average Score -262.4
+For Episode 402 SCore -318.4 Average Score -263.4
+For Episode 403 SCore -284.9 Average Score -264.0
+For Episode 404 SCore -337.9 Average Score -265.0
+For Episode 405 SCore -201.6 Average Score -265.8
+For Episode 406 SCore -305.4 Average Score -265.8
+For Episode 407 SCore -225.5 Average Score -265.4
+For Episode 408 SCore -253.3 Average Score -263.1
+For Episode 409 SCore -239.9 Average Score -262.2
+For Episode 410 SCore -273.2 Average Score -261.3
+For Episode 411 SCore -103.1 Average Score -259.2
+For Episode 412 SCore -198.5 Average Score -258.4
+For Episode 413 SCore -202.0 Average Score -257.1
+For Episode 414 SCore -185.7 Average Score -256.5
+For Episode 415 SCore -261.9 Average Score -255.7
+For Episode 416 SCore -170.5 Average Score -255.1
+For Episode 417 SCore -475.8 Average Score -256.6
+For Episode 418 SCore -150.9 Average Score -254.5
+For Episode 419 SCore -203.5 Average Score -253.3
+For Episode 420 SCore -214.3 Average Score -252.5
+For Episode 421 SCore -150.7 Average Score -247.7
+For Episode 422 SCore -206.0 Average Score -245.5
+For Episode 423 SCore -229.8 Average Score -244.7
+For Episode 424 SCore -210.0 Average Score -243.5
+For Episode 425 SCore -183.8 Average Score -241.9
+For Episode 426 SCore -159.4 Average Score -240.8
+For Episode 427 SCore -192.1 Average Score -239.4
+For Episode 428 SCore -151.8 Average Score -237.9
+For Episode 429 SCore -178.3 Average Score -235.6
+For Episode 430 SCore -145.1 Average Score -234.1
+For Episode 431 SCore -173.4 Average Score -231.5
+For Episode 432 SCore -204.4 Average Score -230.1
+For Episode 433 SCore -76.0 Average Score -226.2
+For Episode 434 SCore -248.1 Average Score -222.8
+For Episode 435 SCore -221.9 Average Score -217.4
+For Episode 436 SCore -176.3 Average Score -217.8
+For Episode 437 SCore -172.0 Average Score -217.9
+For Episode 438 SCore -458.7 Average Score -220.9
+For Episode 439 SCore -92.5 Average Score -219.9
+For Episode 440 SCore -131.4 Average Score -219.8
+For Episode 441 SCore -177.8 Average Score -220.1
+For Episode 442 SCore -162.9 Average Score -219.8
+For Episode 443 SCore -325.2 Average Score -221.4
+For Episode 444 SCore -147.8 Average Score -222.0
+For Episode 445 SCore -480.0 Average Score -223.8
+For Episode 446 SCore -101.4 Average Score -223.1
+For Episode 447 SCore -179.3 Average Score -222.6
+For Episode 448 SCore -136.8 Average Score -222.1
+For Episode 449 SCore -91.3 Average Score -221.6
+For Episode 450 SCore -151.9 Average Score -221.4
+For Episode 451 SCore -127.6 Average Score -220.6
+For Episode 452 SCore -85.9 Average Score -218.9
+For Episode 453 SCore 145.0 Average Score -209.1
+For Episode 454 SCore -162.0 Average Score -209.0
+For Episode 455 SCore -106.7 Average Score -208.4
+For Episode 456 SCore 156.3 Average Score -205.3
+For Episode 457 SCore -117.8 Average Score -204.8
+For Episode 458 SCore -191.3 Average Score -206.4
+For Episode 459 SCore -87.4 Average Score -205.5
+For Episode 460 SCore -172.3 Average Score -206.0
+For Episode 461 SCore -134.7 Average Score -202.0
+For Episode 462 SCore -125.3 Average Score -202.1
+For Episode 463 SCore -102.8 Average Score -201.4
+For Episode 464 SCore -163.4 Average Score -202.1
+For Episode 465 SCore -174.1 Average Score -201.4
+For Episode 466 SCore -102.0 Average Score -200.6
+For Episode 467 SCore -157.1 Average Score -200.4
+For Episode 468 SCore -151.4 Average Score -199.9
+For Episode 469 SCore -167.8 Average Score -199.3
+For Episode 470 SCore -131.8 Average Score -198.9
+For Episode 471 SCore -126.6 Average Score -198.3
+For Episode 472 SCore -205.9 Average Score -198.2
+For Episode 473 SCore -131.3 Average Score -197.9
+For Episode 474 SCore -152.1 Average Score -197.6
+For Episode 475 SCore -155.1 Average Score -197.0
+For Episode 476 SCore -107.2 Average Score -196.3
+For Episode 477 SCore -179.5 Average Score -195.4
+For Episode 478 SCore -95.6 Average Score -193.7
+For Episode 479 SCore -305.6 Average Score -194.2
+For Episode 480 SCore -117.5 Average Score -193.6
+For Episode 481 SCore -119.3 Average Score -192.9
+For Episode 482 SCore -200.3 Average Score -194.2
+For Episode 483 SCore -83.1 Average Score -193.2
+For Episode 484 SCore -169.8 Average Score -193.2
+For Episode 485 SCore -193.3 Average Score -193.1
+For Episode 486 SCore -120.0 Average Score -190.1
+For Episode 487 SCore -74.5 Average Score -187.8
+For Episode 488 SCore -81.8 Average Score -184.1
+For Episode 489 SCore 9.4 Average Score -180.3
+For Episode 490 SCore 116.8 Average Score -175.8
+For Episode 491 SCore -181.5 Average Score -174.7
+For Episode 492 SCore -245.5 Average Score -174.9
+For Episode 493 SCore 32.1 Average Score -171.2
+For Episode 494 SCore -79.1 Average Score -170.5
+For Episode 495 SCore -261.9 Average Score -171.0
+For Episode 496 SCore -62.7 Average Score -168.9
+For Episode 497 SCore 46.0 Average Score -165.4
+For Episode 498 SCore -339.3 Average Score -167.6
+For Episode 499 SCore 274.1 Average Score -163.3
+For Episode 500 SCore -260.1 Average Score -163.3
+For Episode 501 SCore -130.8 Average Score -161.8
+For Episode 502 SCore 260.3 Average Score -156.0
+For Episode 503 SCore -265.1 Average Score -155.8
+For Episode 504 SCore -182.1 Average Score -154.3
+For Episode 505 SCore -122.0 Average Score -153.5
+For Episode 506 SCore -256.0 Average Score -153.0
+For Episode 507 SCore 256.2 Average Score -148.2
+For Episode 508 SCore 243.6 Average Score -143.2
+For Episode 509 SCore -293.7 Average Score -143.8
+For Episode 510 SCore 202.8 Average Score -139.0
+For Episode 511 SCore -161.1 Average Score -139.6
+For Episode 512 SCore -240.7 Average Score -140.0
+For Episode 513 SCore 275.7 Average Score -135.2
+For Episode 514 SCore 247.9 Average Score -130.9
+For Episode 515 SCore -329.2 Average Score -131.6
+For Episode 516 SCore 248.0 Average Score -127.4
+For Episode 517 SCore 18.2 Average Score -122.4
+For Episode 518 SCore -66.5 Average Score -121.6
+For Episode 519 SCore -141.3 Average Score -121.0
+For Episode 520 SCore 247.6 Average Score -116.3
+For Episode 521 SCore -74.4 Average Score -115.6
+For Episode 522 SCore 240.4 Average Score -111.1
+For Episode 523 SCore -164.2 Average Score -110.5
+For Episode 524 SCore 231.0 Average Score -106.1
+For Episode 525 SCore -218.3 Average Score -106.4
+For Episode 526 SCore -83.8 Average Score -105.6
+For Episode 527 SCore 269.7 Average Score -101.0
+For Episode 528 SCore -166.3 Average Score -101.2
+For Episode 529 SCore -75.1 Average Score -100.1
+For Episode 530 SCore 162.1 Average Score -97.1
+For Episode 531 SCore -76.5 Average Score -96.1
+For Episode 532 SCore -109.4 Average Score -95.1
+For Episode 533 SCore 223.0 Average Score -92.2
+For Episode 534 SCore -144.8 Average Score -91.1
+For Episode 535 SCore 250.9 Average Score -86.4
+For Episode 536 SCore -246.8 Average Score -87.1
+For Episode 537 SCore 198.5 Average Score -83.4
+For Episode 538 SCore 274.8 Average Score -76.1
+For Episode 539 SCore -169.8 Average Score -76.8
+For Episode 540 SCore -121.9 Average Score -76.7
+For Episode 541 SCore -135.1 Average Score -76.3
+For Episode 542 SCore 248.1 Average Score -72.2
+For Episode 543 SCore -176.2 Average Score -70.7
+For Episode 544 SCore -182.8 Average Score -71.1
+For Episode 545 SCore 33.2 Average Score -65.9
+For Episode 546 SCore -176.1 Average Score -66.7
+For Episode 547 SCore -15.4 Average Score -65.0
+For Episode 548 SCore 264.0 Average Score -61.0
+For Episode 549 SCore 6.1 Average Score -60.1
+For Episode 550 SCore 4.0 Average Score -58.5
+For Episode 551 SCore -76.3 Average Score -58.0
+For Episode 552 SCore -140.4 Average Score -58.5
+For Episode 553 SCore 3.9 Average Score -59.9
+For Episode 554 SCore -182.4 Average Score -60.1
+For Episode 555 SCore 205.3 Average Score -57.0
+For Episode 556 SCore 96.1 Average Score -57.6
+For Episode 557 SCore 266.8 Average Score -53.8
+For Episode 558 SCore 119.6 Average Score -50.7
+For Episode 559 SCore 145.3 Average Score -48.3
+For Episode 560 SCore -305.1 Average Score -49.7
+For Episode 561 SCore 62.5 Average Score -47.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 562 SCore 111.6 Average Score -45.3
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 563 SCore -101.2 Average Score -45.3
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 564 SCore 253.8 Average Score -41.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 565 SCore 248.1 Average Score -36.9
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 566 SCore 3.8 Average Score -35.9
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 567 SCore 13.2 Average Score -34.2
+For Episode 568 SCore -388.8 Average Score -36.5
+For Episode 569 SCore -64.7 Average Score -35.5
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 570 SCore 233.7 Average Score -31.8
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 571 SCore 252.2 Average Score -28.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 572 SCore -127.3 Average Score -27.3
+For Episode 573 SCore -185.6 Average Score -27.8
+For Episode 574 SCore -174.4 Average Score -28.0
+For Episode 575 SCore -90.2 Average Score -27.4
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 576 SCore 229.7 Average Score -24.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 577 SCore 213.4 Average Score -20.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 578 SCore -89.5 Average Score -20.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 579 SCore -291.6 Average Score -19.9
+For Episode 580 SCore -144.4 Average Score -20.2
+For Episode 581 SCore -163.3 Average Score -20.6
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 582 SCore 224.7 Average Score -16.3
+For Episode 583 SCore -129.8 Average Score -16.8
+For Episode 584 SCore -156.5 Average Score -16.7
+For Episode 585 SCore -533.8 Average Score -20.1
+For Episode 586 SCore -160.6 Average Score -20.5
+For Episode 587 SCore -158.0 Average Score -21.3
+For Episode 588 SCore 41.8 Average Score -20.1
+For Episode 589 SCore 44.1 Average Score -19.7
+For Episode 590 SCore 202.3 Average Score -18.9
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 591 SCore 241.8 Average Score -14.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 592 SCore 85.2 Average Score -11.4
+For Episode 593 SCore -125.1 Average Score -12.9
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 594 SCore 193.4 Average Score -10.2
+For Episode 595 SCore -618.5 Average Score -13.8
+For Episode 596 SCore -436.1 Average Score -17.5
+For Episode 597 SCore -366.8 Average Score -21.6
+For Episode 598 SCore -174.8 Average Score -20.0
+For Episode 599 SCore 250.4 Average Score -20.2
+For Episode 600 SCore -25.9 Average Score -17.9
+For Episode 601 SCore -800.5 Average Score -24.6
+For Episode 602 SCore -151.6 Average Score -28.7
+For Episode 603 SCore 97.9 Average Score -25.1
+For Episode 604 SCore -184.8 Average Score -25.1
+For Episode 605 SCore -242.5 Average Score -26.3
+For Episode 606 SCore -179.7 Average Score -25.5
+For Episode 607 SCore 144.4 Average Score -26.6
+For Episode 608 SCore -95.0 Average Score -30.0
+For Episode 609 SCore -197.9 Average Score -29.1
+For Episode 610 SCore -160.2 Average Score -32.7
+For Episode 611 SCore -73.3 Average Score -31.8
+For Episode 612 SCore 7.4 Average Score -29.3
+For Episode 613 SCore -106.3 Average Score -33.2
+For Episode 614 SCore -158.6 Average Score -37.2
+For Episode 615 SCore 197.3 Average Score -32.0
+For Episode 616 SCore -157.2 Average Score -36.0
+For Episode 617 SCore 265.5 Average Score -33.5
+For Episode 618 SCore -108.0 Average Score -34.0
+For Episode 619 SCore 23.9 Average Score -32.3
+For Episode 620 SCore 174.9 Average Score -33.0
+For Episode 621 SCore -216.2 Average Score -34.5
+For Episode 622 SCore -89.8 Average Score -37.8
+For Episode 623 SCore 246.1 Average Score -33.7
+For Episode 624 SCore -124.8 Average Score -37.2
+For Episode 625 SCore -92.7 Average Score -36.0
+For Episode 626 SCore -126.8 Average Score -36.4
+For Episode 627 SCore -129.6 Average Score -40.4
+For Episode 628 SCore -232.0 Average Score -41.0
+For Episode 629 SCore -110.1 Average Score -41.4
+For Episode 630 SCore -47.2 Average Score -43.5
+For Episode 631 SCore -96.9 Average Score -43.7
+For Episode 632 SCore -134.3 Average Score -43.9
+For Episode 633 SCore -97.3 Average Score -47.1
+For Episode 634 SCore -152.4 Average Score -47.2
+For Episode 635 SCore -96.8 Average Score -50.7
+For Episode 636 SCore -132.5 Average Score -49.5
+For Episode 637 SCore -212.4 Average Score -53.7
+For Episode 638 SCore -141.5 Average Score -57.8
+For Episode 639 SCore -116.1 Average Score -57.3
+For Episode 640 SCore -89.6 Average Score -57.0
+For Episode 641 SCore -111.6 Average Score -56.7
+For Episode 642 SCore -145.2 Average Score -60.7
+For Episode 643 SCore -136.0 Average Score -60.3
+For Episode 644 SCore -155.3 Average Score -60.0
+For Episode 645 SCore -116.8 Average Score -61.5
+For Episode 646 SCore -325.3 Average Score -63.0
+For Episode 647 SCore -134.8 Average Score -64.2
+For Episode 648 SCore -142.3 Average Score -68.2
+For Episode 649 SCore -144.4 Average Score -69.7
+For Episode 650 SCore -127.0 Average Score -71.0
+For Episode 651 SCore -93.0 Average Score -71.2
+For Episode 652 SCore -159.4 Average Score -71.4
+For Episode 653 SCore -285.0 Average Score -74.3
+For Episode 654 SCore -213.1 Average Score -74.6
+For Episode 655 SCore -229.3 Average Score -78.9
+For Episode 656 SCore -364.9 Average Score -83.5
+For Episode 657 SCore -244.7 Average Score -88.7
+For Episode 658 SCore -89.0 Average Score -90.7
+For Episode 659 SCore -165.6 Average Score -93.9
+For Episode 660 SCore -131.8 Average Score -92.1
+For Episode 661 SCore -218.3 Average Score -94.9
+For Episode 662 SCore -256.1 Average Score -98.6
+For Episode 663 SCore -121.2 Average Score -98.8
+For Episode 664 SCore -119.5 Average Score -102.5
+For Episode 665 SCore -51.3 Average Score -105.5
+For Episode 666 SCore -242.4 Average Score -108.0
+For Episode 667 SCore -64.6 Average Score -108.8
+For Episode 668 SCore -76.9 Average Score -105.7
+For Episode 669 SCore -80.3 Average Score -105.8
+For Episode 670 SCore -98.4 Average Score -109.1
+For Episode 671 SCore -123.0 Average Score -112.9
+For Episode 672 SCore -104.1 Average Score -112.7
+For Episode 673 SCore -94.4 Average Score -111.7
+For Episode 674 SCore -124.4 Average Score -111.2
+For Episode 675 SCore -135.3 Average Score -111.7
+For Episode 676 SCore -74.1 Average Score -114.7
+For Episode 677 SCore -107.9 Average Score -117.9
+For Episode 678 SCore -188.7 Average Score -118.9
+For Episode 679 SCore -133.4 Average Score -117.4
+For Episode 680 SCore 81.4 Average Score -115.1
+For Episode 681 SCore -126.4 Average Score -114.7
+For Episode 682 SCore -97.7 Average Score -118.0
+For Episode 683 SCore -56.1 Average Score -117.2
+For Episode 684 SCore -181.6 Average Score -117.5
+For Episode 685 SCore -109.3 Average Score -113.2
+For Episode 686 SCore -102.8 Average Score -112.6
+For Episode 687 SCore -93.4 Average Score -112.0
+For Episode 688 SCore -89.5 Average Score -113.3
+For Episode 689 SCore -101.5 Average Score -114.8
+For Episode 690 SCore -69.2 Average Score -117.5
+For Episode 691 SCore -102.3 Average Score -120.9
+For Episode 692 SCore -124.7 Average Score -123.0
+For Episode 693 SCore -21.2 Average Score -122.0
+For Episode 694 SCore 128.1 Average Score -122.6
+For Episode 695 SCore -50.6 Average Score -117.0
+For Episode 696 SCore 179.8 Average Score -110.8
+For Episode 697 SCore -35.4 Average Score -107.5
+For Episode 698 SCore -134.0 Average Score -107.1
+For Episode 699 SCore -133.4 Average Score -110.9
+For Episode 700 SCore -72.6 Average Score -111.4
+For Episode 701 SCore -44.5 Average Score -103.8
+For Episode 702 SCore -123.6 Average Score -103.5
+For Episode 703 SCore -45.9 Average Score -105.0
+For Episode 704 SCore 240.3 Average Score -100.7
+For Episode 705 SCore 9.3 Average Score -98.2
+For Episode 706 SCore 264.1 Average Score -93.8
+For Episode 707 SCore -131.1 Average Score -96.5
+For Episode 708 SCore 265.3 Average Score -92.9
+For Episode 709 SCore 254.2 Average Score -88.4
+For Episode 710 SCore 29.6 Average Score -86.5
+For Episode 711 SCore -94.4 Average Score -86.7
+For Episode 712 SCore -82.1 Average Score -87.6
+For Episode 713 SCore 260.5 Average Score -83.9
+For Episode 714 SCore 257.5 Average Score -79.8
+For Episode 715 SCore 261.7 Average Score -79.1
+For Episode 716 SCore 233.4 Average Score -75.2
+For Episode 717 SCore 211.1 Average Score -75.8
+For Episode 718 SCore 266.4 Average Score -72.0
+For Episode 719 SCore 174.8 Average Score -70.5
+For Episode 720 SCore 247.4 Average Score -69.8
+For Episode 721 SCore -130.8 Average Score -68.9
+For Episode 722 SCore -83.6 Average Score -68.9
+For Episode 723 SCore 253.2 Average Score -68.8
+For Episode 724 SCore -154.4 Average Score -69.1
+For Episode 725 SCore 210.7 Average Score -66.1
+For Episode 726 SCore 178.0 Average Score -63.0
+For Episode 727 SCore 189.7 Average Score -59.8
+For Episode 728 SCore 251.7 Average Score -55.0
+For Episode 729 SCore 145.0 Average Score -52.4
+For Episode 730 SCore 77.1 Average Score -51.2
+For Episode 731 SCore 122.4 Average Score -49.0
+For Episode 732 SCore 60.3 Average Score -47.1
+For Episode 733 SCore -99.6 Average Score -47.1
+For Episode 734 SCore 220.7 Average Score -43.4
+For Episode 735 SCore -79.1 Average Score -43.2
+For Episode 736 SCore -32.5 Average Score -42.2
+For Episode 737 SCore 71.7 Average Score -39.3
+For Episode 738 SCore -72.8 Average Score -38.6
+For Episode 739 SCore 212.1 Average Score -35.4
+For Episode 740 SCore 218.4 Average Score -32.3
+For Episode 741 SCore 251.3 Average Score -28.7
+For Episode 742 SCore 233.6 Average Score -24.9
+For Episode 743 SCore 252.0 Average Score -21.0
+For Episode 744 SCore 208.7 Average Score -17.3
+For Episode 745 SCore -249.3 Average Score -18.7
+For Episode 746 SCore 196.1 Average Score -13.5
+For Episode 747 SCore -37.4 Average Score -12.5
+For Episode 748 SCore -114.3 Average Score -12.2
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 749 SCore 164.9 Average Score -9.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 750 SCore 171.1 Average Score -6.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 751 SCore 223.6 Average Score -3.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 752 SCore 248.9 Average Score 1.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 753 SCore -79.8 Average Score 3.2
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 754 SCore 172.5 Average Score 7.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 755 SCore 216.5 Average Score 11.5
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 756 SCore 221.6 Average Score 17.3
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 757 SCore 33.5 Average Score 20.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 758 SCore 203.2 Average Score 23.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 759 SCore 224.8 Average Score 27.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 760 SCore 243.2 Average Score 30.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 761 SCore -169.0 Average Score 31.2
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 762 SCore 79.5 Average Score 34.6
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 763 SCore 28.9 Average Score 36.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 764 SCore 202.9 Average Score 39.3
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 765 SCore 230.4 Average Score 42.1
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 766 SCore -110.3 Average Score 43.4
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 767 SCore 223.6 Average Score 46.3
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 768 SCore 165.7 Average Score 48.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 769 SCore 215.5 Average Score 51.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 770 SCore 207.3 Average Score 54.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 771 SCore -26.3 Average Score 55.7
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 772 SCore -92.1 Average Score 55.8
+For Episode 773 SCore -190.0 Average Score 54.9
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 774 SCore 230.3 Average Score 58.4
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 775 SCore 208.4 Average Score 61.9
+For Episode 776 SCore -174.0 Average Score 60.9
+For Episode 777 SCore -94.3 Average Score 61.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 778 SCore 166.2 Average Score 64.5
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 779 SCore 221.8 Average Score 68.1
+For Episode 780 SCore -161.1 Average Score 65.7
+For Episode 781 SCore 1.5 Average Score 66.9
+For Episode 782 SCore -188.3 Average Score 66.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 783 SCore 239.3 Average Score 69.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 784 SCore -82.7 Average Score 70.0
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 785 SCore -91.7 Average Score 70.2
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 786 SCore -34.5 Average Score 70.8
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 787 SCore 186.1 Average Score 73.6
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 788 SCore 121.0 Average Score 75.7
+For Episode 789 SCore -104.8 Average Score 75.7
+For Episode 790 SCore -208.6 Average Score 74.3
+For Episode 791 SCore -195.3 Average Score 73.4
+For Episode 792 SCore -108.2 Average Score 73.5
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 793 SCore 252.9 Average Score 76.3
+For Episode 794 SCore -40.1 Average Score 74.6
+For Episode 795 SCore -151.2 Average Score 73.6
+For Episode 796 SCore -150.7 Average Score 70.3
+For Episode 797 SCore -40.5 Average Score 70.2
+For Episode 798 SCore -113.7 Average Score 70.4
+For Episode 799 SCore -101.5 Average Score 70.8
+For Episode 800 SCore -215.2 Average Score 69.3
+For Episode 801 SCore 221.6 Average Score 72.0
+For Episode 802 SCore -101.2 Average Score 72.2
+For Episode 803 SCore -32.0 Average Score 72.4
+For Episode 804 SCore -108.7 Average Score 68.9
+For Episode 805 SCore 220.6 Average Score 71.0
+For Episode 806 SCore 244.8 Average Score 70.8
+For Episode 807 SCore -91.0 Average Score 71.2
+For Episode 808 SCore 195.3 Average Score 70.5
+For Episode 809 SCore 176.3 Average Score 69.7
+For Episode 810 SCore 194.4 Average Score 71.4
+For Episode 811 SCore 226.3 Average Score 74.6
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+... saving checkpoint ...
+For Episode 812 SCore 280.5 Average Score 78.2
+For Episode 813 SCore 251.2 Average Score 78.1
+For Episode 814 SCore -27.5 Average Score 75.3
+For Episode 815 SCore 251.7 Average Score 75.2
+For Episode 816 SCore -125.3 Average Score 71.6
+For Episode 817 SCore -120.2 Average Score 68.3
+For Episode 818 SCore 224.4 Average Score 67.8
+For Episode 819 SCore -83.6 Average Score 65.3
+For Episode 820 SCore 197.0 Average Score 64.7
+For Episode 821 SCore -95.8 Average Score 65.1
+For Episode 822 SCore 228.7 Average Score 68.2
+For Episode 823 SCore 253.3 Average Score 68.2
+For Episode 824 SCore -799.6 Average Score 61.8
+For Episode 825 SCore 156.1 Average Score 61.2
+For Episode 826 SCore 209.7 Average Score 61.5
+For Episode 827 SCore -159.8 Average Score 58.0
+For Episode 828 SCore 224.3 Average Score 57.8
+For Episode 829 SCore -130.8 Average Score 55.0
+For Episode 830 SCore -145.3 Average Score 52.8
+For Episode 831 SCore 232.1 Average Score 53.9
+For Episode 832 SCore 259.5 Average Score 55.9
+For Episode 833 SCore -244.5 Average Score 54.4
+For Episode 834 SCore 207.3 Average Score 54.3
+For Episode 835 SCore -125.3 Average Score 53.8
+For Episode 836 SCore 233.4 Average Score 56.5
+For Episode 837 SCore 162.6 Average Score 57.4
+For Episode 838 SCore 211.0 Average Score 60.2
+For Episode 839 SCore 206.4 Average Score 60.2
+For Episode 840 SCore -145.2 Average Score 56.5
+For Episode 841 SCore 283.9 Average Score 56.9
+For Episode 842 SCore 235.7 Average Score 56.9
+For Episode 843 SCore 268.5 Average Score 57.1
+For Episode 844 SCore -106.1 Average Score 53.9
+For Episode 845 SCore 203.4 Average Score 58.4
+For Episode 846 SCore 220.8 Average Score 58.7
+For Episode 847 SCore -96.4 Average Score 58.1
+For Episode 848 SCore -194.6 Average Score 57.3
+For Episode 849 SCore 222.9 Average Score 57.9
+For Episode 850 SCore -132.9 Average Score 54.8
+For Episode 851 SCore 154.4 Average Score 54.1
+For Episode 852 SCore -45.5 Average Score 51.2
+For Episode 853 SCore -266.9 Average Score 49.3
+For Episode 854 SCore 148.9 Average Score 49.1
+For Episode 855 SCore 107.4 Average Score 48.0
+For Episode 856 SCore 11.1 Average Score 45.9
+For Episode 857 SCore 178.5 Average Score 47.3
+For Episode 858 SCore -87.7 Average Score 44.4
+For Episode 859 SCore -82.2 Average Score 41.4
+For Episode 860 SCore -49.3 Average Score 38.4
+For Episode 861 SCore 229.1 Average Score 42.4
+For Episode 862 SCore 267.2 Average Score 44.3
+For Episode 863 SCore -109.5 Average Score 42.9
+For Episode 864 SCore -103.0 Average Score 39.9
+For Episode 865 SCore -114.7 Average Score 36.4
+For Episode 866 SCore -189.3 Average Score 35.6
+For Episode 867 SCore 139.0 Average Score 34.8
+For Episode 868 SCore -131.6 Average Score 31.8
+For Episode 869 SCore -118.8 Average Score 28.5
+For Episode 870 SCore -148.9 Average Score 24.9
+For Episode 871 SCore -133.6 Average Score 23.8
+For Episode 872 SCore 184.6 Average Score 26.6
+For Episode 873 SCore -30.3 Average Score 28.2
+For Episode 874 SCore -60.7 Average Score 25.3
+For Episode 875 SCore -135.1 Average Score 21.8
+For Episode 876 SCore -243.7 Average Score 21.1
+For Episode 877 SCore -110.0 Average Score 21.0
+For Episode 878 SCore -71.6 Average Score 18.6
+For Episode 879 SCore -64.1 Average Score 15.8
+For Episode 880 SCore -55.9 Average Score 16.8
+For Episode 881 SCore -154.8 Average Score 15.2
+For Episode 882 SCore -120.7 Average Score 15.9
+For Episode 883 SCore -375.3 Average Score 9.8
+For Episode 884 SCore -184.5 Average Score 8.8
+For Episode 885 SCore -155.6 Average Score 8.1
+For Episode 886 SCore -215.8 Average Score 6.3
+For Episode 887 SCore -39.4 Average Score 4.0
+For Episode 888 SCore -211.8 Average Score 0.7
+For Episode 889 SCore -180.6 Average Score -0.0
+For Episode 890 SCore -205.9 Average Score -0.0
+For Episode 891 SCore -199.8 Average Score -0.1
+For Episode 892 SCore -121.1 Average Score -0.2
+For Episode 893 SCore -189.8 Average Score -4.6
+For Episode 894 SCore -157.7 Average Score -5.8
+For Episode 895 SCore -189.7 Average Score -6.2
+For Episode 896 SCore -106.6 Average Score -5.7
+For Episode 897 SCore -129.3 Average Score -6.6
+For Episode 898 SCore -147.0 Average Score -7.0
+For Episode 899 SCore -105.1 Average Score -7.0
+For Episode 900 SCore -121.6 Average Score -6.1
+For Episode 901 SCore -124.3 Average Score -9.5
+For Episode 902 SCore -147.3 Average Score -10.0
+For Episode 903 SCore -94.9 Average Score -10.6
+For Episode 904 SCore -96.6 Average Score -10.5
+For Episode 905 SCore -221.0 Average Score -14.9
+For Episode 906 SCore -122.9 Average Score -18.6
+For Episode 907 SCore -67.2 Average Score -18.3
+For Episode 908 SCore -173.7 Average Score -22.0
+For Episode 909 SCore -153.7 Average Score -25.3
+For Episode 910 SCore -151.3 Average Score -28.8
+For Episode 911 SCore -137.0 Average Score -32.4
+For Episode 912 SCore -108.8 Average Score -36.3
+For Episode 913 SCore -150.8 Average Score -40.3
+For Episode 914 SCore -120.7 Average Score -41.3
+For Episode 915 SCore -147.3 Average Score -45.3
+For Episode 916 SCore -120.5 Average Score -45.2
+For Episode 917 SCore -128.8 Average Score -45.3
+For Episode 918 SCore -119.3 Average Score -48.7
+For Episode 919 SCore -123.1 Average Score -49.1
+For Episode 920 SCore -121.1 Average Score -52.3
+For Episode 921 SCore -125.3 Average Score -52.6
+For Episode 922 SCore -101.8 Average Score -55.9
+For Episode 923 SCore -84.4 Average Score -59.3
+For Episode 924 SCore -84.7 Average Score -52.1
+For Episode 925 SCore -140.8 Average Score -55.1
+For Episode 926 SCore -112.3 Average Score -58.3
+For Episode 927 SCore 262.8 Average Score -54.1
+For Episode 928 SCore -153.7 Average Score -57.9
+For Episode 929 SCore -107.4 Average Score -57.6
+For Episode 930 SCore -140.6 Average Score -57.6
+For Episode 931 SCore 232.1 Average Score -57.6
+For Episode 932 SCore -129.7 Average Score -61.5
+For Episode 933 SCore -114.1 Average Score -60.2
+For Episode 934 SCore -126.2 Average Score -63.5
+For Episode 935 SCore -126.1 Average Score -63.5
+For Episode 936 SCore -141.2 Average Score -67.3
+For Episode 937 SCore -155.4 Average Score -70.5
+For Episode 938 SCore 233.7 Average Score -70.2
+For Episode 939 SCore 46.3 Average Score -71.8
+For Episode 940 SCore -134.9 Average Score -71.7
+For Episode 941 SCore -123.4 Average Score -75.8
+For Episode 942 SCore -92.9 Average Score -79.1
+For Episode 943 SCore -126.9 Average Score -83.0
+For Episode 944 SCore -129.3 Average Score -83.3
+For Episode 945 SCore -82.8 Average Score -86.1
+For Episode 946 SCore -179.6 Average Score -90.1
+For Episode 947 SCore -108.3 Average Score -90.3
+For Episode 948 SCore -191.8 Average Score -90.2
+For Episode 949 SCore -160.4 Average Score -94.1
+For Episode 950 SCore -156.0 Average Score -94.3
+For Episode 951 SCore -154.8 Average Score -97.4
+For Episode 952 SCore -173.5 Average Score -98.7
+For Episode 953 SCore -84.5 Average Score -96.8
+For Episode 954 SCore 224.4 Average Score -96.1
+For Episode 955 SCore -122.5 Average Score -98.4
+For Episode 956 SCore -162.6 Average Score -100.1
+For Episode 957 SCore -134.2 Average Score -103.3
+For Episode 958 SCore -140.8 Average Score -103.8
+For Episode 959 SCore -122.8 Average Score -104.2
+For Episode 960 SCore 38.8 Average Score -103.3
+For Episode 961 SCore -144.2 Average Score -107.0
+For Episode 962 SCore 245.5 Average Score -107.3
+For Episode 963 SCore 11.1 Average Score -106.1
+For Episode 964 SCore -204.5 Average Score -107.1
+For Episode 965 SCore -207.7 Average Score -108.0
+For Episode 966 SCore -162.5 Average Score -107.7
+For Episode 967 SCore 223.9 Average Score -106.9
+For Episode 968 SCore 264.7 Average Score -102.9
+For Episode 969 SCore -126.4 Average Score -103.0
+For Episode 970 SCore 242.5 Average Score -99.1
+For Episode 971 SCore 263.4 Average Score -95.1
+For Episode 972 SCore -201.2 Average Score -99.0
+For Episode 973 SCore -104.4 Average Score -99.7
+For Episode 974 SCore -85.6 Average Score -100.0
+For Episode 975 SCore -200.4 Average Score -100.6
+For Episode 976 SCore -163.8 Average Score -99.8
+For Episode 977 SCore -134.9 Average Score -100.1
+For Episode 978 SCore 234.1 Average Score -97.0
+For Episode 979 SCore 260.4 Average Score -93.8
+For Episode 980 SCore -105.6 Average Score -94.3
+For Episode 981 SCore -94.1 Average Score -93.6
+For Episode 982 SCore -131.5 Average Score -93.8
+For Episode 983 SCore -156.7 Average Score -91.6
+For Episode 984 SCore -92.1 Average Score -90.6
+For Episode 985 SCore -120.7 Average Score -90.3
+For Episode 986 SCore 232.0 Average Score -85.8
+For Episode 987 SCore 249.2 Average Score -82.9
+For Episode 988 SCore 255.1 Average Score -78.3
+For Episode 989 SCore -130.3 Average Score -77.8
+For Episode 990 SCore -110.8 Average Score -76.8
+For Episode 991 SCore -98.2 Average Score -75.8
+For Episode 992 SCore 177.6 Average Score -72.8
+For Episode 993 SCore -140.4 Average Score -72.3
+For Episode 994 SCore -100.9 Average Score -71.7
+For Episode 995 SCore -40.3 Average Score -70.3
+For Episode 996 SCore 220.5 Average Score -67.0
+For Episode 997 SCore 178.6 Average Score -63.9
+For Episode 998 SCore -126.8 Average Score -63.7
+For Episode 999 SCore 190.7 Average Score -60.7
+For Episode 1000 SCore -130.4 Average Score -60.8
